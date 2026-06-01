@@ -1,4 +1,28 @@
 proxies:
+- type: "http"
+  server: "144.48.108.121"
+  port: "5452"
+  name: RedFox http 1
+- type: "http"
+  server: "144.48.108.122"
+  port: "5452"
+  name: RedFox http 2
+- type: "http"
+  server: "203.76.108.222"
+  port: "27271"
+  name: RedFox http 3
+- type: "http"
+  server: "144.48.108.122"
+  port: "5452"
+  name: RedFox http 4
+- type: "http"
+  server: "103.172.14.1"
+  port: "5452"
+  name: RedFox http 5
+-type: "http"
+  server: "103.198.133.233"
+  port: "2610"
+  name: RedFox http 5
 - type: "socks5"
   server: "103.126.23.222"
   port: "1088"
