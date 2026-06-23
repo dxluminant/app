@@ -1,28 +1,4 @@
 proxies:
-- type: "socks5"
-  server: "210.4.75.86"
-  port: "6969"
-  username: "1"
-  password: "1"
-  name: 🦊 RedFox 001
-  - type: "socks5"
-  server: "210.4.73.228"
-  port: "6969"
-  username: "1"
-  password: "1"
-  name: 🦊 RedFox 002
-  - type: "socks5"
-  server: "119.40.93.28"
-  port: "6969"
-  username: "1"
-  password: "1"
-  name: 🦊 RedFox 003
-  - type: "socks5"
-  server: "119.40.90.13"
-  port: "6969"
-  username: "1"
-  password: "1"
-  name: 🦊 RedFox 004
 - name: proxy1
   type: http
   server: 144.48.108.121
