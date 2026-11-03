@@ -6,80 +6,82 @@ proxies:
   password: "FuCk_u"
   name: 🦊 RedFox 001
 - type: "socks5"
+  server: "202.4.116.117"
+  port: "11911"
+  username: "SiX"
+  password: "fUcK_u"
+  name: 🦊 RedFox 002
+- type: "socks5"
   server: "202.4.116.141"
   port: "11911"
   username: "SiX"
   password: "FuCK_U"
-  name: 🦊 RedFox 002
+  name: 🦊 RedFox 003
+- type: "socks5"
+  server: "202.4.122.122"
+  port: "11911"
+  username: "SiX"
+  password: "FuCK_U"
+  name: 🦊 RedFox 004
 - type: "socks5"
   server: "103.142.69.155"
   port: "11911"
   username: "11911"
   password: "11911"
-  name: 🦊 RedFox 003
+  name: 🦊 RedFox 005
 - type: "socks5"
   server: "116.212.104.202"
   port: "11911"
-  name: 🦊 RedFox 004
+  name: 🦊 RedFox 006
 - type: "socks5"
   server: "103.244.49.181"
   port: "11911"
-  name: 🦊 RedFox 005
-- type: "socks5"
-  server: "103.154.49.165"
-  port: "11911"
-  name: 🦊 RedFox 006
+  name: 🦊 RedFox 007
 - type: "socks5"
   server: "160.187.117.5"
   port: "2959"
-  name: 🦊 RedFox 007
+  name: 🦊 RedFox 008
 - type: "socks5"
   server: "103.186.238.118"
   port: "11911"
-  name: 🦊 RedFox 008
+  name: 🦊 RedFox 009
 - type: "socks5"
   server: "103.69.151.250"
   port: "11811"
   username: "e"
   password: "e"
-  name: 🦊 RedFox 009
+  name: 🦊 RedFox 010
 - type: "socks5"
   server: "180.149.235.157"
   port: "4742"
   username: "R!@zuL"
   password: "R!@zuL"
-  name: 🦊 RedFox 010
+  name: 🦊 RedFox 011
 - type: "socks5"
   server: "180.149.235.17"
   port: "4742"
   username: "e"
   password: "e"
-  name: 🦊 RedFox 011
+  name: 🦊 RedFox 012
 - type: "socks5"
   server: "103.69.151.194"
   port: "4742"
   username: "R!@zuL"
   password: "R!@zuL"
-  name: 🦊 RedFox 012
+  name: 🦊 RedFox 013
 - type: "socks5"
   server: "103.69.150.233"
   port: "4742"
   username: "e"
   password: "e"
-  name: 🦊 RedFox 013
+  name: 🦊 RedFox 014
 - type: "socks5"
   server: "180.149.235.153"
   port: "4742"
   username: "R!@zuL"
   password: "R!@zuL"
-  name: 🦊 RedFox 014
+  name: 🦊 RedFox 015
 - type: "socks5"
   server: "103.115.242.97"
   port: "33311"
-  name: 🦊 RedFox 015
-- type: "socks5"
-  server: "103.42.203.50"
-  port: "9922"
-  username: "1"
-  password: "1"
   name: 🦊 RedFox 016
