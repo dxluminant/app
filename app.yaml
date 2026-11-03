@@ -157,7 +157,6 @@ proxy-groups:
       - Node - 3
       - Node - 4
 rules:
-  - DOMAIN-SUFFIX,spark.ahamoyna.workers.dev,DIRECT
   - NETWORK,UDP,DIRECT
   - IP-CIDR,15.1.0.0/16,CircleFTP
   - DOMAIN-SUFFIX,circleftp.net,CircleFTP
