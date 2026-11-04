@@ -87,7 +87,6 @@ proxies:
     type: socks5
 proxy-groups:
   - name: Experiment Cats
-    icon: https://six6.me/uploads/site/favicon.png?v=1781171652
     type: select
     url: http://1.1.1.1
     proxies:
